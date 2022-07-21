@@ -435,6 +435,14 @@ mark,
 .list-unstyled {
   padding-left: 0;
   list-style: none;
+  list-style-type: none;
+  display: flex;
+  margin-bottom: -21px;
+  justify-content: space-between;
+}
+
+li{
+  padding-right: 17px;
 }
 
 .list-inline {
