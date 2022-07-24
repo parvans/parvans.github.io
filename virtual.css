@@ -116,7 +116,7 @@ a:hover, a:active {
 .img-place > img {
     width: 100%;height: auto;
 }
-.img-caption{
+.img-caption:hover{
     opacity: 30%;
 }
 
